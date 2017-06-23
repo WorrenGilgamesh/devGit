@@ -1,0 +1,5 @@
+Cerebro: "¿Tomando notas?"
+Monstruo: "Si, debo estar seguro que recordarás esto."
+Cerebro: "Ni siquiera recordaré que esas notas existen."
+*El monstruo se sorprende*
+Cerebro: "No dije que pararas."
