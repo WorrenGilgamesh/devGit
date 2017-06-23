@@ -1,5 +1,8 @@
-- Me siento perdido, que se supone que deberÃ­a hacer ?
-- a veces nos sentimos perdidos por enfocarnos en lo que queremos en ves de en lo que somos
--aprecia  el momento, vamos.
-- no estÃ¡ funcionando.
-- dije "a veces"
+LOST
+
+H- Me siento perdido. ¿Qué debería estar haciendo?
+C- A veces nos sentimos perdidos porque estamos enfocados en lo que QUEREMOS ser en vez de enfocarnos en lo que SOMOS.
+H- Aprecio el momento. ¡Entiendo!
+(PELIGRO, Arena movediza)
+H-No está funcionando.
+C- Dije: “A veces”.
